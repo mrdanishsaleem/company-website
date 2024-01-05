@@ -1,13 +1,14 @@
+TITLE:
 
-TITLE: 
-Air - 100% Fully Responsive Free HTML5 Bootstrap Template
+Danish Saleem - Portfolio Website
 
 AUTHOR:
-DESIGNED & DEVELOPED by FreeHTML5.co
+DESIGNED & DEVELOPED by Danish Saleem
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+Website: https://mrdanishsaleem.vercel.app/
+Twitter: https://twitter.com/MrDanishSaleem
+LinkedIn: https://linkedin.com/in/mrdanishsaleem
+LinkedIn: https://instagram.com/mrdanishsaleem
 
 
 CREDITS:
